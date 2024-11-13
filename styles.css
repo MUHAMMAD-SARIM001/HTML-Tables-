@@ -1,0 +1,78 @@
+table{
+     width: 80%;
+     border: 5px solid #000;
+     text-align: center ;
+     border-collapse: collapse;
+     margin: auto;
+     background: #000;
+     margin-top: 5%;
+     height: 500px;
+     font-family: sans-serif;
+}
+
+.start{
+    background: orange;
+    color: white;
+}
+.compare
+{
+    background: white;
+  color: black;   
+
+}
+.advance{
+    background: red;    
+    color: white;
+}
+.enter{
+    background: blue;
+    color: white;
+
+}
+h1{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 20px;
+    font-size: 50px;
+}
+td
+{
+    color: white;
+    font-size: 20px;
+    border: 1px solid yellow;
+}
+td:hover{
+    transform: scale(1.0);
+    background-color: white;
+    color: black;
+}
+button{
+    background-color: red;
+    height: 40px;
+    width: 100px;
+    border-radius: 30px;
+    color: white;
+    font-size: 16px;
+}
+.ylo{
+    color: orange;
+    font-size: 25px;
+    font-weight: bold;
+}
+.red{
+    color: red;
+    font-size: 25px;
+    font-weight: bold;
+}
+.blue{
+    color:blue;
+    font-size: 25px;
+    font-weight: bold;
+}
+.CHECK{
+    color:orange
+}
+.align {
+    text-align: start;
+    
+}
